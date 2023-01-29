@@ -1,0 +1,16 @@
+
+        case 'b': flag_b = 1 ; break;
+                case 'e': flag_e = 1 ; break;
+
+		case 'n': flag_n = 1; break;
+
+
+
+
+
+hohoho
+
+                case 's': flag_s = 1; break;
+case 't': flag_t = 1; break;
+what_text
+
